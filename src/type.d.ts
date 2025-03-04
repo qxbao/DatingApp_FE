@@ -1,0 +1,1 @@
+// For type definitions
